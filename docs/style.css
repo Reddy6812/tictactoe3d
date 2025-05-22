@@ -1,0 +1,5 @@
+body, html { margin: 0; padding: 0; overflow: hidden; }
+#container { display: flex; height: 100vh; }
+#side-panel { width: 200px; background: #f4f4f4; display: flex; align-items: center; justify-content: center; }
+#btn-2d { padding: 10px 20px; font-size: 16px; cursor: pointer; }
+#game-container { flex: 1; } 
